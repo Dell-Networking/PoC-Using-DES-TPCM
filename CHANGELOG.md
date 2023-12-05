@@ -1,27 +1,15 @@
 # Changelog
 
-A changelog should be maintained separate from the git history / log that describes the purpose of any major change / release. Example format below
-
-## v0.1.1
-
+## v1.0
 ### Added
-
+Add function to remove a TPCM
 ### Changed
+Remove all "warning" and debug messages
 
-- Updated format of README file
-- Moved CONTRIBUTING guide to PoC-Index repo as common resource
-
-### Fixed
-
-## v0.1.0
-
+## v0.5
 ### Added
+Add function to list all TPCM
 
-- Initial swing at the format. Added requisite docs including README, CHANGELOG, CONTRIBUTING, LICENSE and general format.
-
-### Changed
-
-
-### Fixed
-
-
+## v0.1
+### Added
+Initial release allow to deploy remotly a TPCM by using RESTAPI request.
